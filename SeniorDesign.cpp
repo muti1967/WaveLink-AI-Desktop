@@ -27,8 +27,9 @@ std::map<int, bool> taskPlayingState;  //declared  once
 *  - add a play button to play the audio/tasks back in the app
 *  - make it so it make sures the correct format is being entered
 *
-*
-*
+* ---- PRIORITY ---
+*   - does not save new audio or tasks sometimes
+*   - removes wronf student sometimes
 * -ADD DELETE TASK BUTTON
 * -FIX TIME NOT BEING ADDED FORALLSTUDENT TASKS
 *
