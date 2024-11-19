@@ -5,3 +5,4 @@ It pushes information assigned to each RPI to set reminders and different tasks 
 
 **Soon to come:**
 A seperate repository for RPI's which will use AI/ML to detect different gestures, assign daily tasks and learn from the users habbits.
+Have yet to organize files into assigned folders
